@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MMA3001 Pork Packaging Inspection Project
+
+# Ignore the downloaded Roboflow dataset
+data/
+
+# Ignore trained YOLO model weights
+*.pt
+
+# Ignore automatically generated YOLO training files
+runs/
+
+# Ignore temporary model training outputs
+results/training/
