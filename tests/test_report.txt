@@ -1,0 +1,12 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.10.11, pytest-9.1.1, pluggy-1.7.0 -- C:\Users\logan\OneDrive\Documents\GitHub\MMA3001_Pork-Packaging_Pass-Fail\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\logan\OneDrive\Documents\GitHub\MMA3001_Pork-Packaging_Pass-Fail
+collecting ... collected 4 items
+
+tests/test_inspection.py::test_fail PASSED                               [ 25%]
+tests/test_inspection.py::test_review PASSED                             [ 50%]
+tests/test_inspection.py::test_provisional_pass PASSED                   [ 75%]
+tests/test_inspection.py::test_fail_threshold PASSED                     [100%]
+
+============================== 4 passed in 3.25s ==============================
