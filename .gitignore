@@ -224,8 +224,6 @@ __marimo__/
 # Ignore the downloaded Roboflow dataset
 data/
 
-# Ignore trained YOLO model weights
-*.pt
 
 # Ignore automatically generated YOLO training files
 runs/
@@ -238,8 +236,6 @@ data/
 data.zip
 *.zip
 
-# Trained model weights
-*.pt
 
 # Python environment
 .venv/
