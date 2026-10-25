@@ -232,3 +232,14 @@ runs/
 
 # Ignore temporary model training outputs
 results/training/
+
+# Dataset files
+data/
+data.zip
+*.zip
+
+# Trained model weights
+*.pt
+
+# Python environment
+.venv/
