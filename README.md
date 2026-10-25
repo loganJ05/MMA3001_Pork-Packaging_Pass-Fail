@@ -83,6 +83,8 @@ python -m pip install -r requirements.txt
 
 Download the pork packaging dataset and extract it into the data/ folder.
 
+The trained YOLO model (models/best.pt) is provided in the repository. Allowing fro users to run the inspection without need for retraining. The original untrained dataset is excluded due to its size.
+
 Ensure that data.yaml references the correct directories and class names.
 
 # Running the project
